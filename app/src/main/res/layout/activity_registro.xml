@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="10sp">
+
+    <EditText
+        android:id="@+id/idRegistroNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hintNome"/>
+<EditText
+    android:id="@+id/idRegistroEmail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="@string/hintEmail"
+    android:inputType="textEmailAddress"/>
+    <EditText
+        android:id="@+id/idRegistroSenha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hintSenha2"
+        android:inputType="textPassword"/>
+    <EditText
+        android:id="@+id/idRegistroSenhaRepetir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hintRepetir"
+        android:inputType="textPassword"/>
+    <Button
+        android:id="@+id/idRegistroRegistrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/hintRegistrar2"/>
+
+</LinearLayout>

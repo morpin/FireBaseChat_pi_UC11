@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FireBaseChat</string>
+    <string name="Email">E-mail:</string>
+    <string name="hintSenha">Senha:</string>
+    <string name="hintLogin">Login</string>
+    <string name="hintRegistrar">Registrar-se:</string>
+    <string name="hintEncerrar">Encerrar sessão:</string>
+    <string name="hintMensagem">Digite a mensagem:</string>
+    <string name="hintEnviar">Enviar a mensagem</string>
+    <string name="hintNome">Nome:</string>
+    <string name="hintEmail">E-mail:</string>
+    <string name="hintSenha2">Senha:</string>
+    <string name="hintRepetir">Repetir senha:</string>
+    <string name="hintRegistrar2">Registrar:</string>
+
+</resources>
